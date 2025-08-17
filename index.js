@@ -1,4 +1,6 @@
 require('dotenv').config()
+// or 
+// import dotenv from 'dotenv'
 const express = require ('express')
 // or 
 // import express from "express"
